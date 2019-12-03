@@ -1,0 +1,8 @@
+*.app
+.vs/
+*.xcodeproj
+*.xcconfig
+Release/
+Debug/
+x64/
+obj/

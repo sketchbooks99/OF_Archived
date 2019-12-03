@@ -1,0 +1,4 @@
+ofxGui
+ofxJSON
+ofxOpenGLContextScope
+ofxTrueTypeFontUC
